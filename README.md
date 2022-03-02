@@ -1,4 +1,4 @@
-### Hey 
+### Hey ✌️
 Im currently a third year student at the University of Calgary
 Im interested in,
 - Cyber Security 
