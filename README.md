@@ -1,9 +1,5 @@
-### Hey ✌️
-Im currently a third year student at the University of Calgary
-Im interested in,
+Im currently a fourth year student at the University of Calgary
 - Cyber Security 
 - Software Engineering
-
-Feel free to take a look at my website [here](https://ty-irving.com) or email me at tyirving1@gmail.com
 
 ![Ty's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ty-Irving&show_icons=true&count_private=true&theme=tokyonight)
