@@ -1,4 +1,4 @@
-Im currently a fourth year student at the University of Calgary
+Im interested in
 - Cyber Security 
 - Software Engineering
 
